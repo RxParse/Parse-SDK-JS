@@ -2,5 +2,12 @@
   "jasmineExplorer.config": "jasmine.json",
   "jasmineExplorer.env": {
     "TESTING": "1"
-  }
+  },
+  "cSpell.words": [
+    "backend",
+    "clazz",
+    "comparator",
+    "interpretted",
+    "signup"
+  ]
 }
